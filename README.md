@@ -20,6 +20,6 @@ Tech wizardry and healthcare enthusiasm define my day-to-day life. I’m mixing 
 
 ## 🤝 Let's Connect!
 
-Fancy a conversation about the wonders and complexities of AI, medical imaging, or just the latest in tech? Reach out on [social media](www.linkedin.com/SGUTWEIN) or check out [my webpage](https://github.com/SimonBon). I’m always eager to connect, share stories, exchange ideas, and enjoy a virtual cup of coffee with new friends and fellow enthusiasts.
+Fancy a conversation about the wonders and complexities of AI, medical imaging, or just the latest in tech? Reach out on [social media](www.linkedin.com/SGUTWEIN) or check out [my webpage](https://simonbon.github.io). I’m always eager to connect, share stories, exchange ideas, and enjoy a virtual cup of coffee with new friends and fellow enthusiasts.
 
 Looking forward to meeting you and exploring the boundless possibilities of AI and medicine together!
