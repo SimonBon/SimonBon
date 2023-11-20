@@ -1,26 +1,8 @@
 ![](simonandcats.png)
 
-# Hello World, I’m Simon! 👋
+# Hello there! 👋 I'm Simon
 
-Welcome to my digital abode! I’m Simon, navigating the fascinating crossroads of Artificial Intelligence (AI) and medicine, currently deciphering the secrets of cell types and tumor images as a Ph.D. student in Vienna. My days are filled with exploration and discovery, and I'm thrilled to share my journey with you!
-
-## 🧠 My Passion & Mission
-
-I’ve embarked on this journey with a profound passion for the transformative power of AI in healthcare. My mission is to harness the potential of AI to bring forth groundbreaking advancements in medical diagnostics and treatment. Whether it’s delving into the details of MRI, CT scans, or exploring the intricate world of biological imaging like IMC, FISH, and IF, I’m all in!
-
-## 🎓 Educational Journey
-
-Education has been a thrilling ride for me! I hold a Master’s degree from the University of Tübingen and a Bachelor’s from the University of Applied Sciences Saar. From developing algorithms for endoscopes to estimating radiation doses with Deep Learning, every step has been an adventure filled with learning, experimenting, and creating!
-
-## 🔍 Research Focus
-
-A significant focus of my research is exploring uncertainties in deep learning. This area is crucial as it delves into the reliability and trustworthiness of AI models, especially in healthcare applications. Understanding and quantifying uncertainty helps ensure that AI-driven decisions are accurate, dependable, and robust.
-
-## 💻 Tech & Creativity
-
-Tech wizardry and healthcare enthusiasm define my day-to-day life. I’m mixing and matching Python, PyTorch, Docker, and a dash of creativity in the Creative Cloud to cook up innovative solutions that bridge technology and healthcare. It’s a delightful blend of science and creativity, and I’m here for it!
-
-## 🤝 Let's Connect!
+I am a Ph.D. student in Vienna, passionately exploring the intersection of AI and medicine in the [Taschner-Mandl Group](https://github.com/taschnermandlgroup) at [St. Anna Children's Cancer Research Institute](https://www.ccri.at). My work involves unraveling the intricacies of cell types and tumor imaging, where each day brings new discoveries. I'm deeply committed to leveraging AI's transformative potential in healthcare, aiming to revolutionize medical diagnostics and treatments. My academic journey, with a Master's from the University of Tübingen and a Bachelor’s from the University of Applied Sciences Saar, has been an exhilarating mix of developing algorithms, delving into deep learning, and more! My research currently focuses on the uncertainties in deep learning, especially vital for reliable and trustworthy AI in healthcare. Day-to-day, I blend Python, PyTorch, Docker, and Creative Cloud to create innovative tech solutions at the nexus of science and creativity. If you're intrigued by AI, medical imaging, or the latest in tech, let's connect! Drop by my social media or webpage for a chat over a virtual coffee, sharing stories and ideas. Can't wait to explore the endless possibilities of AI and medicine with you! 🤝🚀🧬
 
 Fancy a conversation about the wonders and complexities of AI, medical imaging, or just the latest in tech? Reach out on [social media](www.linkedin.com/SGUTWEIN) or check out [my webpage](https://simonbon.github.io). I’m always eager to connect, share stories, exchange ideas, and enjoy a virtual cup of coffee with new friends and fellow enthusiasts.
 
