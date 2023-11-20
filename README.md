@@ -1,3 +1,5 @@
+![](simonandcats.png)
+
 # Hello World, I’m Simon! 👋
 
 Welcome to my digital abode! I’m Simon, navigating the fascinating crossroads of Artificial Intelligence (AI) and medicine, currently deciphering the secrets of cell types and tumor images as a Ph.D. student in Vienna. My days are filled with exploration and discovery, and I'm thrilled to share my journey with you!
