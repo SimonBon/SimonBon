@@ -1,4 +1,4 @@
-![](https://github.com/SimonBon/SimonBon/assets/62474133/64fe0e54-cd07-447e-b556-81ebb3f558d7)
+![](https://github.com/SimonBon/SimonBon/assets/62474133/a7259a85-bcf3-4e0a-86aa-aa92bf6d1469)
 
 # Hello there! 👋 I'm Simon
 
