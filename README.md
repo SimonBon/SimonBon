@@ -1,4 +1,4 @@
-![](simonandcats.png)
+![](https://github.com/SimonBon/SimonBon/assets/62474133/5c15eb0e-f474-43d8-b458-9e2b6e522d7b)
 
 # Hello there! 👋 I'm Simon
 
