@@ -1,4 +1,4 @@
-![](cats.jpg)
+![](cats_wide.jpg)
 
 # Hello there! 👋 I'm Simon
 
