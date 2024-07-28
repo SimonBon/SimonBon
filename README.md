@@ -2,4 +2,24 @@
 
 # Hello there! 👋 I'm Simon
 
-I am a Ph.D. student in Vienna, passionately exploring the intersection of AI and medicine in the [Taschner-Mandl Group](https://github.com/taschnermandlgroup) at [St. Anna Children's Cancer Research Institute](https://www.ccri.at). My work involves unraveling the intricacies of cell types and tumor imaging, where each day brings new discoveries. I'm deeply committed to leveraging AI's transformative potential in healthcare, aiming to revolutionize medical diagnostics and treatments. My academic journey, with a Master's from the University of Tübingen and a Bachelor’s from the University of Applied Sciences Saar, has been an exhilarating mix of developing algorithms, delving into deep learning, and more! My research currently focuses on the uncertainties in deep learning, especially vital for reliable and trustworthy AI in healthcare. Day-to-day, I blend Python, PyTorch, Docker, and Creative Cloud to create innovative tech solutions at the nexus of science and creativity. If you're intrigued by AI, medical imaging, or the latest in tech, let's connect! Drop by my [social media](https://www.linkedin.com/in/sgutwein/) for a chat over a virtual coffee, sharing ideas. Can't wait to explore the endless possibilities of AI and medicine with you! 🤝🚀🧬
+As a Ph.D. student in Vienna, I am fervently exploring the transformative potential of AI in Biology and AI within the [Taschner-Mandl Group](https://github.com/taschnermandlgroup) at [St. Anna Children's Cancer Research Institute](https://www.ccri.at).
+
+- **Research Focus**
+  - Exploring cell types and tumor imaging
+  - Leveraging AI to revolutionize medical diagnostics and treatments
+  - Investigating uncertainties in deep learning for reliable AI in healthcare
+
+- **Academic Background**
+  - Master’s from the [University of Tübingen](https://uni-tuebingen.de)
+  - Bachelor’s from the [University of Applied Sciences Saar](https://www.htwsaar.de)
+  - Experience in developing algorithms and deep learning
+
+- **Technical Skills**
+  - Proficient in Python, PyTorch, Docker, and Creative Cloud
+  - Computer Vision and Representation Learning
+  - Creating tech solutions at the intersection of computer science and biology
+
+- **Connect with Me**
+  - Interested in AI, medical imaging, or tech innovations?
+  - Let's chat over a virtual coffee on [LinkedIn](https://www.linkedin.com/in/sgutwein/)
+  - Excited to explore AI and medicine together!
