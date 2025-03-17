@@ -1,4 +1,4 @@
-![](cats_wide.jpg)
+![webpage-mascots](https://github.com/user-attachments/assets/2e1c597e-549f-46e6-afd4-940429788e00)
 
 # Hello there! 👋 I'm Simon
 
